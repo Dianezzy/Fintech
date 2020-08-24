@@ -1,0 +1,49 @@
+\contentsline {paragraph}{}{1}{section*.2}%
+\contentsline {section}{\numberline {1}研究背景与意义}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}研究背景}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}研究意义}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}国内外研究现状与存在问题}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}信用评分方法综述}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}存在问题}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}研究目标与研究内容}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}研究目标}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}研究内容}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}研究方法与模型思路}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}章节概述}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}WOE编码和IV值}{5}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}WOE编码}{5}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}IV值}{6}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}从逻辑回归到深度学习}{6}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}简要说明}{6}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}逻辑回归}{6}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}逻辑回归的限制}{8}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}级联逻辑回归到神经网络}{9}{subsubsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.4}从神经网络到自编码器}{9}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}神经网络的本质}{9}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}自编码器提取隐藏层输出}{10}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}分类模型简介}{10}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}随机森林}{10}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}LightGBM}{11}{subsubsection.4.5.2}%
+\contentsline {section}{\numberline {5}数据集分析}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}分析方法概述}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}具体分析}{13}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Age}{13}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Revol}{15}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.3}数据清洗}{16}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}特征筛选}{17}{subsection.5.4}%
+\contentsline {section}{\numberline {6}实验与分析}{19}{section.6}%
+\contentsline {subsection}{\numberline {6.1}实验设计说明}{19}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}实验模型介绍}{19}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}模型算法实现}{20}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}WOE编码}{20}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Auto-Encoder特征抽取模型}{21}{subsubsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.4}自编码结果可视化分析}{22}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}不同分类器上的对比}{22}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}简要说明}{22}{subsubsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.2}LightGBM模型上的表现对比}{23}{subsubsection.6.5.2}%
+\contentsline {subsubsection}{\numberline {6.5.3}Random Forest模型上的表现对比}{24}{subsubsection.6.5.3}%
+\contentsline {subsubsection}{\numberline {6.5.4}Logistic Regression模型上的表现对比}{26}{subsubsection.6.5.4}%
+\contentsline {subsubsection}{\numberline {6.5.5}Neural Network上的表现}{27}{subsubsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.6}评分卡的制作}{28}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}实验总结与分析}{30}{subsection.6.7}%
+\contentsline {section}{\numberline {7}结论与展望}{31}{section.7}%
